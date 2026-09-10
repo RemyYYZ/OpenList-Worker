@@ -81,7 +81,7 @@ DB_DRIVER = "d1"
 [[d1_databases]]
 binding = "DB"
 database_name = "openlist"
-database_id = "0acc0ec5-04ae-4374-802b-c33c1d3e67e4"
+database_id = "dfebc099-4323-4e8e-ada3-33ca2c4995e6"
 
 # ===================== Durable Objects（DB_DRIVER = "do" 时启用）=====================
 # DO 内置 SQLite 存储（强一致性 + 事务），适合需要一致性的单租户部署。
